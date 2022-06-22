@@ -1,0 +1,24 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.heading-text {
+	color: purple;
+	font-weight: bold;
+}
+
+.form-box {
+	border: 1px solid black;
+}
+
+.a-btn {
+	color: #0d6efd;
+	text-decoration: underline;
+	border: none;
+	background-color: transparent;
+}
+.a-btn:hover {
+	background-color: transparent;
+	color: #0a58ca;
+}
